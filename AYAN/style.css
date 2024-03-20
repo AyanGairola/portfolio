@@ -386,6 +386,7 @@ ul{
          margin-left: 7vw;
      }
      .project-img{
+         margin-bottom: 21vh;
          width: 70vw;
          height: 20vh;
      }
@@ -406,6 +407,9 @@ ul{
          height: 10vh;
          width: 10vw;
      }
+    .contact {
+        margin-top: 11vh;
+    }
 
 
 }
